@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 100px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 20px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    column-gap: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.box1 {
+    height: 400px;
+    width: 29%;
+    background-color: aqua;
+}
+
+.box2 {
+    height: 400px;
+    width: 29%;
+    background-color: aqua;
+}
+
+.box3 {
+    height: 400px;
+    width: 42%;
+    background-color: aqua;
+}
+
+h1 {
+    padding-top: 15px;
+    margin-left: 10px;
+    font-size: 40px;
+}
+
+p {
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 22px;
+}
+
+
+.smile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 20%;
+    border: 2px solid black;
+    background-color: white;
+    font-size: 25px;
+     border: none;
+}
+
+.laugh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 20%;
+    border: 2px solid black;
+    background-color: white;
+    font-size: 25px;
+    border: none;
+}
+
+.wink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 20%;
+    border: 2px solid black;
+    background-color: white;
+    font-size: 25px;
+    border: none;
+}
+
+.shrug {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 20%;
+    border: 2px solid black;
+    background-color: white;
+    font-size: 25px;
+    border: none;
+}
+
+.blush {
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background-color: white;
+    font-size: 25px;
+    border: none;
+}
+
